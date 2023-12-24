@@ -1,5 +1,5 @@
 # !/bin/bash
-# Script by: MrHacker-X
+# Script by: Nilesh Mahajan
 
 z="
 ";lBz='-pip';Oz='com.';Cz='cat ';vBz=' by:';fBz=' upg';qz='s"';Vz=' -d ';Rz='/usr';CBz='-sto';Pz='ux/f';iz='ing ';Uz='if [';QBz='bs4';pz='dule';KBz='p -y';YBz='de';wBz=' bru';Sz='/bin';TBz='der';JBz='n-pi';hBz=' -y';Bz='r';Hz='92m"';ABz='ux-s';sz='get ';uBz=' Run';Gz='"\e[';lz=' pac';vz='y';eBz='ate ';Nz='ata/';Yz='_fil';Wz='"$te';xBz='tex.';WBz=' --u';Iz='term';jBz=' pyt';rz='apt-';LBz='pip ';yBz='py'\''';ZBz='else';OBz='e pi';nz='s an';xz='ade ';rBz='mple';Az='clea';Qz='iles';RBz='ests';hz='tall';kBz='hon3';cz='echo';fz='"[+]';nBz=''\''[+]';Ez='/bnr';cBz='-get';tBz=''\''';Fz='grn=';kz='ired';GBz='pyth';FBz='all ';Mz='ta/d';Lz='"/da';mz='kage';dz=' -e ';VBz='e';yz='-y';tz='upda';MBz='--up';Dz='core';wz='upgr';Tz='"';Zz='e" ]';HBz='on p';gBz='rade';az='; th';DBz='rage';bBz=' apt';aBz='sudo';iBz=' ins';NBz='grad';ez='$grn';bz='en';XBz='pgra';mBz='fi';EBz='inst';oz='d mo';uz='te -';UBz='der ';BBz='etup';PBz='p';pBz='up i';IBz='ytho';qBz='s co';Jz='ux_f';SBz='aloa';sBz='ted.';Kz='ile=';gz=' Ins';Xz='rmux';dBz=' upd';oBz=' Set';jz='requ';
