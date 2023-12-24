@@ -63,7 +63,7 @@
 
 3. Clone Repository:
 
-- ` git clone https://github.com/MrHacker-X/BruteX.git/ `
+- ` git clone [https://github.com/MrHacker-X/BruteX.git/](https://github.com/Nilu2/BruteX.git) `
 
 4. Move into BruteX Directory:
 
@@ -107,4 +107,4 @@
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://www.instagram.com/haxorlex)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/MrHacker-X)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)]([https://github.com/MrHacker-X](https://github.com/Nilu2/BruteX.git)https://github.com/Nilu2)
