@@ -63,7 +63,7 @@
 
 3. Clone Repository:
 
-- ` git clone [https://github.com/MrHacker-X/BruteX.git/](https://github.com/Nilu2/BruteX.git) `
+- ` git clone https://github.com/Nilu2/BruteX.git 
 
 4. Move into BruteX Directory:
 
